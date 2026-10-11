@@ -33,31 +33,19 @@
 
 </div>
 
-## 🚀 My Projects
+## 🚀 Public Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🌦️ Weather App</h3>
-      <p>A weather application project.</p>
-      <a href="https://github.com/Chanducrp/weather-app-">Explore repository →</a>
-    </td>
-    <td width="50%">
-      <h3>👨‍👩‍👧 Family Connect</h3>
-      <p>A family-focused application project.</p>
-      <a href="https://github.com/Chanducrp/family-connect">Explore repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Telegram Agent</h3>
-      <p>A Telegram automation project.</p>
-      <a href="https://github.com/Chanducrp/TelegramAgent">Explore repository →</a>
-    </td>
-    <td width="50%">
       <h3>🎮 XO Arena</h3>
       <p>A tic-tac-toe game project.</p>
       <a href="https://github.com/Chanducrp/xo-arena">Explore repository →</a>
+    </td>
+    <td width="50%">
+      <h3>💻 Chandan-Kumar</h3>
+      <p>Explore my other public repository.</p>
+      <a href="https://github.com/Chanducrp/Chandan-Kumar">Explore repository →</a>
     </td>
   </tr>
 </table>
